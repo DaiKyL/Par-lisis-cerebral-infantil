@@ -1,0 +1,35 @@
+h1{
+    background-color: rgb(25, 227, 223);
+    color: brown;
+    border-radius: 15px;
+}
+.subtitulo{
+    border-radius: 15px;
+    float: left;
+    display: inline-block; 
+    width: 55%; 
+    height: auto;    
+}
+h3{
+    color: brown;
+}
+h4{
+    color: brown;
+}
+.img{
+    border: #000000 2px solid;
+    float: right;
+    width: 43%;
+    height: 400px;
+}
+img{
+    position:static;
+}
+body{
+    background-color: rgb(239, 239, 239);
+}
+nav{
+    background-color: rgb(142, 255, 193);
+    border-radius: 15px;
+    border:#000000 2px solid;
+}
